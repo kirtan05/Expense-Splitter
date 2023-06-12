@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".addingmember">
+
+    <EditText
+        android:id="@+id/memberEmail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="343dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Enter Member GMAIL" />
+
+    <EditText
+        android:id="@+id/memberName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="514dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Enter Member name" />
+
+    <Button
+        android:id="@+id/memberAdd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/memberEmail"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="84dp"
+        android:layout_marginBottom="211dp"
+        android:text="Add Member" />
+</RelativeLayout>

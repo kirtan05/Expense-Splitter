@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "95677394585",
+    "project_id": "nofights-89489",
+    "storage_bucket": "nofights-89489.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95677394585:android:ea1f623b89663cf0951208",
+        "android_client_info": {
+          "package_name": "com.example.nofights"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95677394585-dq1eeiptetufsn9iv80hf3m4coq9n7ag.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nofights",
+            "certificate_hash": "9a3934d606ccce38833201305e302b8a6ba62e01"
+          }
+        },
+        {
+          "client_id": "95677394585-npp99iuqv43mlsmfe7o1ufs22cfm05gl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEIKqnbez9KKsh0e_c3MQVNjpY-wLCSbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95677394585-npp99iuqv43mlsmfe7o1ufs22cfm05gl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
